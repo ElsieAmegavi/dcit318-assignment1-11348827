@@ -20,9 +20,22 @@ This repository contains three separate C# console applications as part of the D
 - Handles invalid input gracefully
 - Allows multiple calculations
 
+### 2. Ticket Price Calculator
+**Location:** `TicketPriceCalculator/Program.cs`
+
+**Features:**
+- Prompts user to enter their age
+- Calculates ticket price based on age:
+  - Regular price: GHC 10.00
+  - Senior (65+): GHC 7.00 (discount)
+  - Child (12 and under): GHC 7.00 (discount)
+- Validates age input (positive numbers only)
+- Shows discount reason when applicable
+- Displays savings amount for discounted tickets
+- Allows multiple calculations
+
 ## How to Run
 
-<!-- ### Using Command Line
 Navigate to the specific project folder and run:
 
 ```bash

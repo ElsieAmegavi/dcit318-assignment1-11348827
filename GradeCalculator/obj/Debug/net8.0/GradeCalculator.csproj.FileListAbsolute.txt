@@ -12,3 +12,4 @@ C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-113
 C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net8.0\GradeCalculator.pdb
 C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net8.0\GradeCalculator.genruntimeconfig.cache
 C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net8.0\ref\GradeCalculator.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net8.0\GradeCalculator.sourcelink.json
