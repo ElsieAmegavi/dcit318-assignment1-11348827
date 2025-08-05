@@ -34,6 +34,21 @@ This repository contains three separate C# console applications as part of the D
 - Displays savings amount for discounted tickets
 - Allows multiple calculations
 
+### 3. Triangle Type Identifier
+**Location:** `TriangleTypeIdentifier/Program.cs`
+
+**Features:**
+- Prompts user to enter three triangle side lengths
+- Validates that sides can form a valid triangle (Triangle Inequality Theorem)
+- Determines triangle type:
+  - Equilateral: all three sides equal
+  - Isosceles: exactly two sides equal
+  - Scalene: no sides equal
+- Handles invalid input and impossible triangles
+- Shows detailed validation information for invalid triangles
+- Displays triangle perimeter as bonus information
+- Allows multiple calculations
+
 ## How to Run
 
 Navigate to the specific project folder and run:
@@ -50,7 +65,7 @@ dotnet run
 # For Triangle Type Identifier
 cd TriangleTypeIdentifier
 dotnet run
-``` -->
+```
 
 ### Using VS Code
 1. Open the workspace in VS Code
