@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\bin\Debug\net6.0\GradeCalculator.exe
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\bin\Debug\net6.0\GradeCalculator.deps.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\bin\Debug\net6.0\GradeCalculator.runtimeconfig.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\bin\Debug\net6.0\GradeCalculator.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\bin\Debug\net6.0\GradeCalculator.pdb
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\GradeCalculator.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\refint\GradeCalculator.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\GradeCalculator.pdb
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment1-11348827-1\GradeCalculator\obj\Debug\net6.0\ref\GradeCalculator.dll
